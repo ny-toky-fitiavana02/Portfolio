@@ -33,7 +33,6 @@
 .logo{
   width: 44px;
   height: 32px;
-  background-image: url(../images/black-logo.png);
   background-size: contain;
 }
 
@@ -75,7 +74,6 @@
 }
 
 .sticky .logo{
-  background-image: url(../images/black-logo.png);
 }
 
 .sticky .navbar-menu a{
