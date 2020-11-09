@@ -2,7 +2,7 @@
   margin: 2px;
   padding: 0;
   text-decoration: none;
-  font-family: "Ubuntu",sans-serif;
+  font-family: "Ubuntu ",sans-serif;
   box-sizing: border-box;
 
 
@@ -82,6 +82,7 @@
 
 .sticky .menu-toggler span{
   background-color: #111;
+  
 }
 
 #home{
