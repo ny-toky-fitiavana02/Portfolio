@@ -295,6 +295,10 @@ section{
   width: 45%;
 }
 
+.php:after{
+  width: 50%;
+}
+
 section.dark{
   background-color: #353b48;
 }
